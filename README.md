@@ -1,2 +1,2 @@
-# precoursehenry
-este es un repositorio de prueba del modulo 2 del henry
+Este proyecto es una prueba de como crear un repositorio desde github y clonarlo en vscode
+
